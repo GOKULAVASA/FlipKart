@@ -1,0 +1,1031 @@
+[INFO ] 2024-04-05 10:11:11.249 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:11:14.358 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 10:11:24.553 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.105, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62885}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62885/devtoo..., se:cdpVersion: 123.0.6312.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cad7d6b3a5e6227cdd9082000503cb7d
+[INFO ] 2024-04-05 10:11:28.004 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:11:29.653 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:11:32.833 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 10:11:35.847 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 10:11:36.484 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 10:11:46.724 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 10:11:49.624 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 10:11:52.956 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:11:54.400 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:11:57.390 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 10:11:59.606 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:11:59.841 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 10:11:59.872 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 10:12:08.145 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 10:12:08.145 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 10:12:11.478 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:12:12.807 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:12:15.370 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 10:12:17.754 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:12:20.510 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 10:12:20.903 [main] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 10:12:24.295 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:12:25.797 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:12:29.291 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 10:12:31.303 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:12:31.599 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 10:12:35.076 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 10:12:38.246 [main] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 10:12:41.583 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:12:42.890 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:12:45.655 [main] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 10:12:45.657 [main] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 10:12:48.025 [main] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 10:12:48.534 [main] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 10:12:50.994 [main] BaseClass - validation starts
+[INFO ] 2024-04-05 10:12:51.705 [main] BaseClass - item removed 
+[INFO ] 2024-04-05 10:12:52.526 [main] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 10:12:55.912 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:12:57.357 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:12:59.789 [main] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 10:12:59.804 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 10:13:01.854 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 10:13:02.306 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 10:13:05.922 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 10:13:29.420 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:13:31.105 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:13:33.790 [main] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 10:13:33.794 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 10:13:35.827 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 10:13:36.306 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 10:13:38.193 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 10:13:38.564 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 10:13:38.565 [main] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 10:13:48.859 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 10:13:52.243 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:13:53.808 [main] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 10:13:58.515 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:13:58.518 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:13:59.203 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:13:59.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:13:59.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:13:59.251 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:13:59.306 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:13:59.308 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:13:59.349 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:13:59.351 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 10:13:59.381 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:14:01.463 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:14:01.901 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:14:11.941 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:14:11.949 [main] BaseClass - adding 1st product
+[INFO ] 2024-04-05 10:14:12.087 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:14:14.905 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 10:14:19.922 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:14:22.222 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:14:22.601 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:14:22.687 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 10:14:22.687 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:14:22.703 [main] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 10:14:24.835 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:14:27.105 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 10:14:32.123 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:14:34.142 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:14:34.872 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:14:34.989 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 10:14:34.990 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:14:35.103 [main] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 10:14:36.890 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:14:39.303 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 10:14:47.868 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:14:49.803 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:14:52.306 [main] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 10:14:52.441 [main] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 10:14:54.371 [main] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 10:14:54.833 [main] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 10:14:57.094 [main] BaseClass - item added
+[INFO ] 2024-04-05 10:14:57.639 [main] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 10:14:57.738 [main] BaseClass - validation starts 
+[INFO ] 2024-04-05 10:14:58.488 [main] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 10:15:01.783 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:46:15.931 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:46:21.577 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 10:46:31.822 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.105, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63736}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63736/devtoo..., se:cdpVersion: 123.0.6312.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d91d957571c71330d56d1e5baf936c6
+[INFO ] 2024-04-05 10:46:35.237 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:46:36.894 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:46:40.392 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 10:46:45.109 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 10:46:45.760 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 10:46:56.044 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 10:46:58.927 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 10:47:02.379 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:47:04.074 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:47:06.543 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 10:47:08.684 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:47:08.996 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 10:47:09.022 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 10:47:18.847 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 10:47:18.847 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 10:47:22.292 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:47:23.703 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:47:26.169 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 10:47:28.485 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:47:31.232 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 10:47:31.673 [main] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 10:47:35.116 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:47:36.773 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:47:39.366 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 10:47:42.371 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 10:47:42.674 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 10:47:46.143 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 10:47:49.395 [main] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 10:47:52.956 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:47:54.653 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:47:57.260 [main] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 10:47:57.262 [main] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 10:47:59.378 [main] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 10:47:59.848 [main] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 10:48:02.197 [main] BaseClass - validation starts
+[INFO ] 2024-04-05 10:48:02.866 [main] BaseClass - item removed 
+[INFO ] 2024-04-05 10:48:03.704 [main] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 10:48:07.175 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:48:08.828 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:48:12.052 [main] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 10:48:12.072 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 10:48:15.284 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 10:48:16.588 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 10:48:19.094 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 10:48:19.627 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 10:48:19.767 [main] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 10:48:20.124 [main] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 10:48:20.252 [main] BaseClass - checking the price details 
+[INFO ] 2024-04-05 10:48:20.253 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 10:48:23.579 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:48:25.218 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:48:27.965 [main] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 10:48:27.970 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 10:48:30.153 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 10:48:30.578 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 10:48:33.592 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 10:48:33.995 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 10:48:33.995 [main] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 10:48:44.305 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 10:48:47.836 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:48:49.446 [main] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 10:48:52.334 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:48:52.340 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:48:53.179 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:48:53.181 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:48:53.220 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:48:53.222 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:48:53.282 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:48:53.284 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 10:48:53.323 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 10:48:53.324 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 10:48:53.351 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:48:55.341 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:48:55.754 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:49:05.838 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:49:05.847 [main] BaseClass - adding 1st product
+[INFO ] 2024-04-05 10:49:06.011 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:49:09.706 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 10:49:14.712 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:49:16.588 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:49:17.017 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:49:17.150 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 10:49:17.150 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:49:17.164 [main] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 10:49:19.354 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:49:39.764 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 10:49:40.631 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 10:49:42.422 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 10:49:42.510 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 10:49:42.511 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 10:49:42.613 [main] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 10:49:44.522 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 10:49:47.098 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 10:49:55.540 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 10:49:57.395 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 10:50:00.001 [main] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 10:50:00.060 [main] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 10:50:02.197 [main] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 10:50:02.680 [main] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 10:50:07.130 [main] BaseClass - item added
+[INFO ] 2024-04-05 10:50:08.303 [main] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 10:50:08.411 [main] BaseClass - validation starts 
+[INFO ] 2024-04-05 10:50:09.242 [main] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 10:50:12.681 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:02:42.503 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:02:45.048 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 11:02:55.209 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.105, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64500}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64500/devtoo..., se:cdpVersion: 123.0.6312.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6b75d62553747f5581c91c7732b8eae
+[INFO ] 2024-04-05 11:02:58.637 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:03:00.255 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:03:02.904 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 11:03:05.335 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 11:03:06.546 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 11:03:16.842 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 11:03:19.758 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 11:03:23.188 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:03:24.511 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:03:27.850 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 11:03:30.909 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:03:31.268 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 11:03:31.296 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 11:03:39.666 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 11:03:39.666 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 11:03:43.114 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:03:44.470 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:03:47.341 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 11:03:49.637 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:03:55.250 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 11:03:55.877 [main] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 11:03:59.264 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:04:00.865 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:04:03.575 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 11:04:05.757 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:04:06.066 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 11:04:09.513 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 11:04:12.680 [main] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 11:04:16.044 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:04:17.684 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:04:20.387 [main] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 11:04:20.390 [main] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 11:04:23.098 [main] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 11:04:23.921 [main] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 11:04:27.399 [main] BaseClass - validation starts
+[INFO ] 2024-04-05 11:04:28.133 [main] BaseClass - item removed 
+[INFO ] 2024-04-05 11:04:29.010 [main] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 11:04:32.453 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:04:34.008 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:04:37.102 [main] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 11:04:37.108 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 11:04:39.305 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 11:04:39.802 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 11:04:43.743 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 11:04:44.350 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 11:04:44.478 [main] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 11:04:44.839 [main] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 11:04:44.965 [main] BaseClass - checking the price details 
+[INFO ] 2024-04-05 11:04:44.965 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 11:04:48.434 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:04:50.035 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:04:52.495 [main] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 11:04:52.499 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 11:04:55.190 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 11:04:55.650 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 11:05:00.898 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 11:05:24.375 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:05:25.935 [main] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 11:05:28.980 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:05:28.985 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:05:29.679 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:05:29.682 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:05:29.726 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:05:29.727 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:05:29.787 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:05:29.789 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:05:29.827 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:05:29.828 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 11:05:29.854 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:05:32.824 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:05:33.208 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:05:43.286 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:05:43.299 [main] BaseClass - adding 1st product
+[INFO ] 2024-04-05 11:05:43.481 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:05:43.482 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:05:44.221 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:05:46.447 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:05:51.470 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:05:54.497 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:05:54.959 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:05:55.058 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 11:05:55.058 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:05:55.071 [main] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 11:05:58.091 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:05:58.091 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:05:58.619 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:06:00.592 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:06:05.598 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:06:08.071 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:06:08.848 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:06:08.953 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 11:06:08.954 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:06:08.971 [main] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 11:06:10.808 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:06:10.808 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:06:11.357 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:06:13.392 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:06:21.836 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:06:23.556 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:06:26.165 [main] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 11:06:26.250 [main] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 11:06:29.610 [main] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 11:06:30.852 [main] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 11:06:33.360 [main] BaseClass - item added
+[INFO ] 2024-04-05 11:06:34.732 [main] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 11:06:34.833 [main] BaseClass - validation starts 
+[INFO ] 2024-04-05 11:06:35.682 [main] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 11:06:39.118 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:27:13.897 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:27:16.674 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 11:27:26.804 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.105, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65200/devtoo..., se:cdpVersion: 123.0.6312.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f82dadf1aa4109efc484e7d7d1420b31
+[INFO ] 2024-04-05 11:27:30.264 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:27:31.921 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:27:36.987 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 11:27:39.704 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 11:27:40.164 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 11:27:50.360 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 11:27:53.456 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 11:27:56.907 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:27:58.531 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:28:01.063 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 11:28:04.126 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:28:05.235 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 11:28:05.270 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 11:28:13.406 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 11:28:13.406 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 11:28:16.832 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:28:18.403 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:28:21.141 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 11:28:23.868 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:28:29.922 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 11:28:53.461 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:28:55.016 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:28:57.506 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 11:29:00.121 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 11:29:00.426 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 11:29:03.870 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 11:29:07.045 [main] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 11:29:10.491 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:29:12.123 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:29:14.773 [main] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 11:29:14.773 [main] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 11:29:17.225 [main] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 11:29:17.716 [main] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 11:29:23.244 [main] BaseClass - validation starts
+[INFO ] 2024-04-05 11:29:23.987 [main] BaseClass - item removed 
+[INFO ] 2024-04-05 11:29:24.939 [main] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 11:29:28.352 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:29:29.889 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:29:32.424 [main] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 11:29:32.432 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 11:29:34.786 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 11:29:35.271 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 11:29:37.805 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 11:29:38.216 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 11:29:38.338 [main] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 11:29:38.585 [main] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 11:29:38.718 [main] BaseClass - checking the price details 
+[INFO ] 2024-04-05 11:29:38.718 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 11:29:42.078 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:29:43.721 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:29:46.363 [main] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 11:29:46.367 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 11:29:48.704 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 11:29:49.884 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 11:29:52.419 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 11:29:53.387 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 11:29:53.387 [main] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 11:30:03.669 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 11:30:07.104 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:30:08.761 [main] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 11:30:11.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:30:11.579 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:30:12.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:30:12.252 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:30:12.291 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:30:12.291 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:30:12.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:30:12.344 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 11:30:12.380 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 11:30:12.381 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 11:30:12.406 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:30:14.276 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:30:14.699 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:30:24.758 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:30:24.769 [main] BaseClass - adding 1st product
+[INFO ] 2024-04-05 11:30:24.925 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:30:24.928 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:30:25.381 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:30:27.563 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:30:32.578 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:30:34.366 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:30:34.899 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:30:35.002 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 11:30:35.002 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:30:35.010 [main] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 11:30:37.172 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:30:37.172 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:30:37.637 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:30:39.801 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:30:44.809 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 11:30:46.681 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 11:30:47.636 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 11:30:48.054 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 11:30:48.054 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 11:30:48.072 [main] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 11:30:49.506 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 11:30:49.506 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 11:30:49.960 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 11:30:52.009 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 11:31:00.427 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 11:31:02.375 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 11:31:04.994 [main] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 11:31:05.121 [main] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 11:31:08.453 [main] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 11:31:09.004 [main] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 11:31:13.536 [main] BaseClass - item added
+[INFO ] 2024-04-05 11:31:37.077 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:12:15.140 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:12:18.218 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 18:12:28.431 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64635}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64635/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f14fa882a661a077184f449afb899b3
+[INFO ] 2024-04-05 18:12:31.925 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:12:33.547 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:12:36.974 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:12:39.934 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:12:40.470 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 18:12:50.747 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 18:12:54.880 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 18:12:58.379 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:13:00.215 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:13:03.125 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 18:13:06.571 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:13:06.916 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 18:13:06.947 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 18:13:15.802 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 18:13:15.802 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 18:13:19.220 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:13:20.936 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:13:23.997 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 18:13:27.342 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:13:32.106 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 18:13:55.826 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:13:57.686 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:14:01.664 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 18:14:05.677 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:14:06.099 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 18:14:09.667 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 18:15:13.037 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:15:15.483 [main] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 18:15:25.589 [main] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64880}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64880/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 471fe1246b16b37a30fd8f149a7d1eac
+[INFO ] 2024-04-05 18:15:28.814 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:15:29.972 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:15:32.016 [main] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:15:33.816 [main] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:15:34.166 [main] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 18:15:44.364 [main] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 18:15:46.868 [main] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 18:15:50.139 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:15:51.307 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:15:53.560 [main] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 18:15:55.231 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:15:55.434 [main] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 18:15:55.461 [main] BaseClass -  selected the product
+[INFO ] 2024-04-05 18:16:04.206 [main] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 18:16:04.206 [main] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 18:16:07.386 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:16:08.515 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:16:10.390 [main] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 18:16:12.014 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:16:14.377 [main] BaseClass - product selected  
+[INFO ] 2024-04-05 18:16:14.935 [main] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 18:16:18.179 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:16:19.275 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:16:21.221 [main] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 18:16:22.977 [main] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:16:23.171 [main] BaseClass -  selected the product 
+[INFO ] 2024-04-05 18:16:26.433 [main] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 18:16:29.554 [main] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 18:16:32.826 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:16:33.939 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:16:35.907 [main] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 18:16:35.907 [main] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 18:16:37.498 [main] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 18:16:37.803 [main] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 18:16:40.028 [main] BaseClass - validation starts
+[INFO ] 2024-04-05 18:16:40.469 [main] BaseClass - item removed 
+[INFO ] 2024-04-05 18:16:41.260 [main] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 18:16:44.481 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:16:45.645 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:16:47.587 [main] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 18:16:47.593 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:16:49.786 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:16:50.131 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:16:52.485 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:16:52.854 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:16:52.960 [main] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 18:16:53.155 [main] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 18:16:53.239 [main] BaseClass - checking the price details 
+[INFO ] 2024-04-05 18:16:53.253 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:16:56.475 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:16:57.611 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:16:59.655 [main] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 18:16:59.660 [main] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:17:01.477 [main] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:17:01.834 [main] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:17:03.567 [main] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:17:04.120 [main] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:17:04.120 [main] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 18:17:14.302 [main] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:17:17.558 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:17:18.654 [main] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 18:17:20.729 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:17:20.733 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:17:21.326 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:17:21.331 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:17:21.354 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:17:21.354 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:17:21.406 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:17:21.406 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:17:21.440 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:17:21.440 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 18:17:21.464 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:17:22.982 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:17:23.266 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:17:33.302 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:17:33.309 [main] BaseClass - adding 1st product
+[INFO ] 2024-04-05 18:17:33.396 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:17:33.396 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:17:33.814 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:17:35.583 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:17:40.592 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:17:42.557 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:17:42.825 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:17:42.913 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:17:42.913 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:17:42.922 [main] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 18:17:44.425 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:17:44.425 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:17:44.836 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:17:46.250 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:17:51.260 [main] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:17:52.656 [main] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:17:52.966 [main] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:17:53.059 [main] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:17:53.073 [main] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:17:53.082 [main] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 18:17:55.095 [main] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:17:55.095 [main] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:17:55.540 [main] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:17:57.293 [main] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:18:05.542 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:18:06.763 [main] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:18:08.765 [main] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 18:18:08.841 [main] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 18:18:10.484 [main] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 18:18:10.841 [main] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 18:18:12.677 [main] BaseClass - item added
+[INFO ] 2024-04-05 18:18:13.254 [main] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 18:18:13.313 [main] BaseClass - validation starts 
+[INFO ] 2024-04-05 18:18:14.022 [main] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 18:18:17.248 [main] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:29:56.758 [TestNG-test-Test-2] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:29:56.758 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:30:00.035 [TestNG-test-Test-2] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:30:00.093 [TestNG-test-Test-1] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 18:30:10.199 [TestNG-test-Test-1] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65508}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65508/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 596786d298b8ba15762ea4415bbcd806
+[INFO ] 2024-04-05 18:30:12.012 [TestNG-test-Test-2] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:30:12.496 [TestNG-test-Test-2] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 18:30:22.760 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:30:23.901 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:30:25.712 [TestNG-test-Test-1] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 18:30:27.281 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:30:27.526 [TestNG-test-Test-1] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 18:30:27.563 [TestNG-test-Test-1] BaseClass -  selected the product
+[INFO ] 2024-04-05 18:30:35.271 [TestNG-test-Test-1] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 18:30:35.272 [TestNG-test-Test-1] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 18:30:38.481 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:30:39.708 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:30:41.788 [TestNG-test-Test-1] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 18:30:43.479 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:30:45.920 [TestNG-test-Test-1] BaseClass - product selected  
+[INFO ] 2024-04-05 18:30:46.396 [TestNG-test-Test-1] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 18:30:49.638 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:30:50.715 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:30:52.669 [TestNG-test-Test-1] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 18:30:54.646 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:30:54.849 [TestNG-test-Test-1] BaseClass -  selected the product 
+[INFO ] 2024-04-05 18:30:58.138 [TestNG-test-Test-1] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 18:31:01.272 [TestNG-test-Test-1] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 18:31:04.509 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:31:05.623 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:31:07.655 [TestNG-test-Test-1] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 18:31:07.663 [TestNG-test-Test-1] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 18:31:09.871 [TestNG-test-Test-1] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 18:31:10.280 [TestNG-test-Test-1] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 18:31:12.056 [TestNG-test-Test-1] BaseClass - validation starts
+[INFO ] 2024-04-05 18:31:12.461 [TestNG-test-Test-1] BaseClass - item removed 
+[INFO ] 2024-04-05 18:31:13.203 [TestNG-test-Test-1] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 18:31:16.386 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:31:17.474 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:31:19.653 [TestNG-test-Test-1] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 18:31:19.659 [TestNG-test-Test-1] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:31:21.425 [TestNG-test-Test-1] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:31:21.895 [TestNG-test-Test-1] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:31:24.348 [TestNG-test-Test-1] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:31:24.883 [TestNG-test-Test-1] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:31:24.982 [TestNG-test-Test-1] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 18:31:25.235 [TestNG-test-Test-1] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 18:31:25.332 [TestNG-test-Test-1] BaseClass - checking the price details 
+[INFO ] 2024-04-05 18:31:25.332 [TestNG-test-Test-1] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:31:28.537 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:31:29.614 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:31:31.391 [TestNG-test-Test-1] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 18:31:31.394 [TestNG-test-Test-1] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:31:33.001 [TestNG-test-Test-1] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:31:33.355 [TestNG-test-Test-1] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:31:35.443 [TestNG-test-Test-1] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:31:35.811 [TestNG-test-Test-1] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:31:35.811 [TestNG-test-Test-1] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 18:31:46.047 [TestNG-test-Test-1] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:31:49.246 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:31:50.327 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 18:31:52.555 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:31:52.558 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:31:53.260 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:31:53.262 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:31:53.301 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:31:53.303 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:31:53.365 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:31:53.368 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:31:53.408 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:31:53.410 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 18:31:53.439 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:31:55.444 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:31:55.741 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:32:05.776 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:32:05.785 [TestNG-test-Test-1] BaseClass - adding 1st product
+[INFO ] 2024-04-05 18:32:05.893 [TestNG-test-Test-1] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:32:05.893 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:32:06.319 [TestNG-test-Test-1] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:32:08.223 [TestNG-test-Test-1] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:32:13.238 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:32:15.366 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:32:15.641 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:32:15.764 [TestNG-test-Test-1] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:32:15.764 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:32:15.775 [TestNG-test-Test-1] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 18:32:18.109 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:32:38.386 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:32:38.835 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:32:39.908 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:32:39.974 [TestNG-test-Test-1] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:32:39.974 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:32:39.982 [TestNG-test-Test-1] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 18:32:41.595 [TestNG-test-Test-1] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:32:41.595 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:32:41.960 [TestNG-test-Test-1] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:32:43.424 [TestNG-test-Test-1] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:32:51.674 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:32:52.899 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:32:55.209 [TestNG-test-Test-1] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 18:32:55.300 [TestNG-test-Test-1] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 18:32:57.213 [TestNG-test-Test-1] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 18:32:57.634 [TestNG-test-Test-1] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 18:32:59.484 [TestNG-test-Test-1] BaseClass - item added
+[INFO ] 2024-04-05 18:32:59.850 [TestNG-test-Test-1] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 18:32:59.945 [TestNG-test-Test-1] BaseClass - validation starts 
+[INFO ] 2024-04-05 18:33:00.661 [TestNG-test-Test-1] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 18:33:03.863 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:33:25.563 [TestNG-test-Test-2] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:33:49.406 [TestNG-test-Test-3] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:33:49.406 [TestNG-test-Test-2] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:33:49.406 [TestNG-test-Test-4] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:33:49.406 [TestNG-test-Test-5] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:33:49.406 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:33:54.239 [TestNG-test-Test-1] BaseClass - CART ICON VERIFICATION STARTS 
+[INFO ] 2024-04-05 18:33:54.332 [TestNG-test-Test-4] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 18:33:55.414 [TestNG-test-Test-3] BaseClass - transition of add to cart button verification 
+[ERROR] 2024-04-05 18:34:06.561 [TestNG-test-Test-1] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50123/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a18d10a75e8e2b548b88c30f5538ac8b
+[INFO ] 2024-04-05 18:34:06.580 [TestNG-test-Test-2] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:34:06.601 [TestNG-test-Test-5] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 18:34:08.426 [TestNG-test-Test-4] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:34:08.678 [TestNG-test-Test-2] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:34:08.876 [TestNG-test-Test-5] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:34:33.545 [TestNG-test-Test-2] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:34:34.744 [TestNG-test-Test-3] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:34:34.744 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:34:35.685 [TestNG-test-Test-2] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 18:34:35.688 [TestNG-test-Test-2] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 18:34:36.976 [TestNG-test-Test-3] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:34:37.107 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:34:37.944 [TestNG-test-Test-4] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:34:42.311 [TestNG-test-Test-1] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 18:34:42.321 [TestNG-test-Test-1] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:34:42.937 [TestNG-test-Test-3] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 18:34:42.962 [TestNG-test-Test-3] BaseClass - entered the products 
+[DEBUG] 2024-04-05 18:34:43.435 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:34:43.444 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 18:34:43.649 [TestNG-test-Test-2] BaseClass - navigated to the list of products 
+[DEBUG] 2024-04-05 18:34:44.889 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:34:44.895 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:34:45.062 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:34:45.064 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:34:45.166 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:34:45.168 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:34:45.296 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:34:45.297 [TestNG-test-Test-4] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 18:34:45.403 [TestNG-test-Test-4] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:34:45.809 [TestNG-test-Test-1] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:34:46.018 [TestNG-test-Test-3] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:34:46.285 [TestNG-test-Test-4] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:34:46.431 [TestNG-test-Test-2] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 18:34:48.429 [TestNG-test-Test-2] BaseClass - validation starts
+[INFO ] 2024-04-05 18:35:02.115 [TestNG-test-Test-1] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:35:02.166 [TestNG-test-Test-3] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:35:02.184 [TestNG-test-Test-4] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:35:15.904 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:35:18.012 [TestNG-test-Test-1] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 18:35:28.188 [TestNG-test-Test-1] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50522}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50522/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92398718834c832e2dcdde2f0396a6e7
+[INFO ] 2024-04-05 18:35:31.420 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:35:32.511 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:35:34.505 [TestNG-test-Test-1] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:35:36.326 [TestNG-test-Test-1] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:35:36.850 [TestNG-test-Test-1] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 18:35:47.021 [TestNG-test-Test-1] BaseClass - clicked add to cart Btn===
+[INFO ] 2024-04-05 18:35:49.212 [TestNG-test-Test-1] BaseClass - =====VALIDATION DONE========
+[INFO ] 2024-04-05 18:35:52.438 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:35:53.529 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:35:55.321 [TestNG-test-Test-1] BaseClass - transition of add to cart button verification 
+[INFO ] 2024-04-05 18:35:56.858 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:35:57.051 [TestNG-test-Test-1] BaseClass - navigated to the spefic product 
+[INFO ] 2024-04-05 18:35:57.077 [TestNG-test-Test-1] BaseClass -  selected the product
+[INFO ] 2024-04-05 18:36:04.956 [TestNG-test-Test-1] BaseClass -  ADD TO CART =====> GO TO CART 
+[INFO ] 2024-04-05 18:36:04.956 [TestNG-test-Test-1] BaseClass - ====== VALIDATION DONE ====== 
+[INFO ] 2024-04-05 18:36:08.186 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:36:09.334 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:36:11.250 [TestNG-test-Test-1] BaseClass -  cart page verification starts
+[INFO ] 2024-04-05 18:36:13.185 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:36:15.619 [TestNG-test-Test-1] BaseClass - product selected  
+[INFO ] 2024-04-05 18:36:16.192 [TestNG-test-Test-1] BaseClass -  Validation got passed 
+[INFO ] 2024-04-05 18:36:19.434 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:36:20.480 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:36:22.431 [TestNG-test-Test-1] BaseClass -  out of stock product handling 
+[INFO ] 2024-04-05 18:36:24.049 [TestNG-test-Test-1] BaseClass -  entered the product
+[INFO ] 2024-04-05 18:36:24.277 [TestNG-test-Test-1] BaseClass -  selected the product 
+[INFO ] 2024-04-05 18:36:27.548 [TestNG-test-Test-1] BaseClass -  entered the picode 
+[INFO ] 2024-04-05 18:36:30.663 [TestNG-test-Test-1] BaseClass -  ===VALIDATION DONE ====
+[INFO ] 2024-04-05 18:36:33.893 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:36:34.967 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:36:36.775 [TestNG-test-Test-1] BaseClass - remove item in the cart functionality verification Starts
+[INFO ] 2024-04-05 18:36:36.775 [TestNG-test-Test-1] BaseClass - entered the search product and clicked 
+[INFO ] 2024-04-05 18:36:38.494 [TestNG-test-Test-1] BaseClass - navigated to the list of products 
+[INFO ] 2024-04-05 18:36:38.948 [TestNG-test-Test-1] BaseClass - clicked the specific product which matched with the conditions
+[INFO ] 2024-04-05 18:36:40.496 [TestNG-test-Test-1] BaseClass - validation starts
+[INFO ] 2024-04-05 18:36:41.055 [TestNG-test-Test-1] BaseClass - item removed 
+[INFO ] 2024-04-05 18:36:41.844 [TestNG-test-Test-1] BaseClass - ===Validation done ====
+[INFO ] 2024-04-05 18:36:45.039 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:36:46.119 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:36:47.872 [TestNG-test-Test-1] BaseClass - Cart Add-on verification starts
+[INFO ] 2024-04-05 18:36:47.877 [TestNG-test-Test-1] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:36:49.408 [TestNG-test-Test-1] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:36:49.850 [TestNG-test-Test-1] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:36:51.217 [TestNG-test-Test-1] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:36:51.562 [TestNG-test-Test-1] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:36:51.635 [TestNG-test-Test-1] BaseClass - clciked the ADD-ON BTN 
+[INFO ] 2024-04-05 18:36:51.896 [TestNG-test-Test-1] BaseClass - Verfied the Message
+[INFO ] 2024-04-05 18:36:51.981 [TestNG-test-Test-1] BaseClass - checking the price details 
+[INFO ] 2024-04-05 18:36:51.982 [TestNG-test-Test-1] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:36:55.190 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:36:56.273 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:36:58.232 [TestNG-test-Test-1] BaseClass - Cart Sub-on verification starts
+[INFO ] 2024-04-05 18:36:58.232 [TestNG-test-Test-1] BaseClass - entered the products 
+[INFO ] 2024-04-05 18:37:00.197 [TestNG-test-Test-1] BaseClass - showing the list of products 
+[INFO ] 2024-04-05 18:37:00.725 [TestNG-test-Test-1] BaseClass - clicked the spefic product  matched the conditions
+[INFO ] 2024-04-05 18:37:02.250 [TestNG-test-Test-1] BaseClass - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+[INFO ] 2024-04-05 18:37:02.723 [TestNG-test-Test-1] BaseClass - Cart validation done has the same item the selected 
+[INFO ] 2024-04-05 18:37:02.723 [TestNG-test-Test-1] BaseClass - clciked the Sub-ON BTN 
+[INFO ] 2024-04-05 18:37:12.965 [TestNG-test-Test-1] BaseClass - changing quantity
+[INFO ] 2024-04-05 18:37:16.132 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:37:17.236 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[DEBUG] 2024-04-05 18:37:19.304 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:37:19.308 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:37:19.896 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:37:19.897 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:37:19.936 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:37:19.938 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:37:19.996 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:37:19.998 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-04-05 18:37:20.029 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-04-05 18:37:20.031 [TestNG-test-Test-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-04-05 18:37:20.058 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:37:21.590 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:37:21.921 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:37:31.967 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:37:31.984 [TestNG-test-Test-1] BaseClass - adding 1st product
+[INFO ] 2024-04-05 18:37:32.079 [TestNG-test-Test-1] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:37:32.079 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:37:32.454 [TestNG-test-Test-1] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:37:34.045 [TestNG-test-Test-1] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:37:39.062 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:37:40.393 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:37:40.678 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:37:40.830 [TestNG-test-Test-1] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:37:40.830 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:37:40.840 [TestNG-test-Test-1] BaseClass - adding 2nd product
+[INFO ] 2024-04-05 18:37:42.552 [TestNG-test-Test-1] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:37:42.552 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:37:43.005 [TestNG-test-Test-1] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:37:44.456 [TestNG-test-Test-1] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:37:49.462 [TestNG-test-Test-1] BaseClass - Adding multiple products in the cart is started
+[INFO ] 2024-04-05 18:37:50.851 [TestNG-test-Test-1] BaseClass - entered the product and clicked enter
+[INFO ] 2024-04-05 18:37:51.220 [TestNG-test-Test-1] BaseClass - clicked the product ---> will navigate to product details page
+[INFO ] 2024-04-05 18:37:51.301 [TestNG-test-Test-1] BaseClass - counting cart nums
+[INFO ] 2024-04-05 18:37:51.301 [TestNG-test-Test-1] BaseClass - navigating between windowss
+[INFO ] 2024-04-05 18:37:51.311 [TestNG-test-Test-1] BaseClass - adding 3rd product
+[INFO ] 2024-04-05 18:37:52.918 [TestNG-test-Test-1] BaseClass - cart clicked
+[INFO ] 2024-04-05 18:37:52.918 [TestNG-test-Test-1] BaseClass - VALIDATION STARTS.....
+[INFO ] 2024-04-05 18:37:53.290 [TestNG-test-Test-1] BaseClass - icon update checking 
+[INFO ] 2024-04-05 18:37:54.903 [TestNG-test-Test-1] BaseClass - =======VALIDATION GOT PASSESD=========
+[INFO ] 2024-04-05 18:38:03.171 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:38:04.248 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:38:08.976 [TestNG-test-Test-1] BaseClass - save for later functionality starts 
+[INFO ] 2024-04-05 18:38:08.998 [TestNG-test-Test-1] BaseClass - item entered in the search box 
+[INFO ] 2024-04-05 18:38:10.776 [TestNG-test-Test-1] BaseClass - naviagted to the list of products  
+[INFO ] 2024-04-05 18:38:11.176 [TestNG-test-Test-1] BaseClass - clicked tbe specfic product
+[INFO ] 2024-04-05 18:38:12.731 [TestNG-test-Test-1] BaseClass - item added
+[INFO ] 2024-04-05 18:38:13.235 [TestNG-test-Test-1] BaseClass - item added is reflected in the cart page  
+[INFO ] 2024-04-05 18:38:13.297 [TestNG-test-Test-1] BaseClass - validation starts 
+[INFO ] 2024-04-05 18:38:14.017 [TestNG-test-Test-1] BaseClass - ====VALIDATION DONE======
+[INFO ] 2024-04-05 18:38:17.185 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:48:51.977 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:48:54.749 [TestNG-test-Test-1] BaseClass - CART ICON VERIFICATION STARTS 
+[ERROR] 2024-04-05 18:49:04.914 [TestNG-test-Test-1] BaseClass - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51217/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc1c195893fadf0404bf2e3c18a9bf12
+[INFO ] 2024-04-05 18:49:08.093 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:49:09.182 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+[INFO ] 2024-04-05 18:49:10.999 [TestNG-test-Test-1] BaseClass - Adding product to cart Test Starts
+[INFO ] 2024-04-05 18:49:12.703 [TestNG-test-Test-1] BaseClass - Entered the product
+[INFO ] 2024-04-05 18:49:15.329 [TestNG-test-Test-1] BaseClass - clicked the required product===> now navigating to product details page
+[INFO ] 2024-04-05 18:49:18.476 [TestNG-test-Test-1] BaseClass - browser quitting 
+[INFO ] 2024-04-05 18:49:19.539 [TestNG-test-Test-1] BaseClass - chrome driver triggered
+19:04:04.231 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:04:06.364 [TestNG-test-Test-1] INFO  - CART ICON VERIFICATION STARTS 
+19:04:16.449 [TestNG-test-Test-1] ERROR - An error occurred: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_2sKwjB'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51724}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51724/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 184188c9e3225b0e69162ef8eadeaa1a
+19:04:19.641 [TestNG-test-Test-1] INFO  - browser quitting 
+19:04:20.716 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:04:23.679 [TestNG-test-Test-1] INFO  - Adding product to cart Test Starts
+19:04:26.124 [TestNG-test-Test-1] INFO  - Entered the product
+19:04:26.538 [TestNG-test-Test-1] INFO  - clicked the required product===> now navigating to product details page
+19:04:36.774 [TestNG-test-Test-1] INFO  - clicked add to cart Btn===
+19:04:39.169 [TestNG-test-Test-1] INFO  - =====VALIDATION DONE========
+19:04:42.381 [TestNG-test-Test-1] INFO  - browser quitting 
+19:04:43.471 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:04:45.380 [TestNG-test-Test-1] INFO  - transition of add to cart button verification 
+19:04:47.440 [TestNG-test-Test-1] INFO  -  entered the product
+19:04:47.667 [TestNG-test-Test-1] INFO  - navigated to the spefic product 
+19:04:47.707 [TestNG-test-Test-1] INFO  -  selected the product
+19:04:55.733 [TestNG-test-Test-1] INFO  -  ADD TO CART =====> GO TO CART 
+19:04:55.733 [TestNG-test-Test-1] INFO  - ====== VALIDATION DONE ====== 
+19:04:58.917 [TestNG-test-Test-1] INFO  - browser quitting 
+19:04:59.993 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:05:01.997 [TestNG-test-Test-1] INFO  -  cart page verification starts
+19:05:03.759 [TestNG-test-Test-1] INFO  -  entered the product
+19:05:05.670 [TestNG-test-Test-1] INFO  - product selected  
+19:05:06.157 [TestNG-test-Test-1] INFO  -  Validation got passed 
+19:05:09.339 [TestNG-test-Test-1] INFO  - browser quitting 
+19:05:10.405 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:05:12.445 [TestNG-test-Test-1] INFO  -  out of stock product handling 
+19:05:14.082 [TestNG-test-Test-1] INFO  -  entered the product
+19:05:14.288 [TestNG-test-Test-1] INFO  -  selected the product 
+19:05:17.546 [TestNG-test-Test-1] INFO  -  entered the picode 
+19:05:20.650 [TestNG-test-Test-1] INFO  -  ===VALIDATION DONE ====
+19:05:23.832 [TestNG-test-Test-1] INFO  - browser quitting 
+19:05:24.972 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:05:27.062 [TestNG-test-Test-1] INFO  - remove item in the cart functionality verification Starts
+19:05:27.064 [TestNG-test-Test-1] INFO  - entered the search product and clicked 
+19:05:29.293 [TestNG-test-Test-1] INFO  - navigated to the list of products 
+19:05:29.676 [TestNG-test-Test-1] INFO  - clicked the specific product which matched with the conditions
+19:05:31.534 [TestNG-test-Test-1] INFO  - validation starts
+19:05:31.959 [TestNG-test-Test-1] INFO  - item removed 
+19:05:32.720 [TestNG-test-Test-1] INFO  - ===Validation done ====
+19:05:35.905 [TestNG-test-Test-1] INFO  - browser quitting 
+19:05:37.032 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:05:40.304 [TestNG-test-Test-1] INFO  - Cart Add-on verification starts
+19:05:40.311 [TestNG-test-Test-1] INFO  - entered the products 
+19:05:43.551 [TestNG-test-Test-1] INFO  - showing the list of products 
+19:05:44.129 [TestNG-test-Test-1] INFO  - clicked the spefic product  matched the conditions
+19:05:46.213 [TestNG-test-Test-1] INFO  - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+19:05:46.536 [TestNG-test-Test-1] INFO  - Cart validation done has the same item the selected 
+19:05:46.622 [TestNG-test-Test-1] INFO  - clciked the ADD-ON BTN 
+19:05:46.826 [TestNG-test-Test-1] INFO  - Verfied the Message
+19:05:46.910 [TestNG-test-Test-1] INFO  - checking the price details 
+19:05:46.910 [TestNG-test-Test-1] INFO  - changing quantity
+19:05:50.091 [TestNG-test-Test-1] INFO  - browser quitting 
+19:05:51.220 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:05:53.369 [TestNG-test-Test-1] INFO  - Cart Sub-on verification starts
+19:05:53.382 [TestNG-test-Test-1] INFO  - entered the products 
+19:05:55.499 [TestNG-test-Test-1] INFO  - showing the list of products 
+19:05:55.889 [TestNG-test-Test-1] INFO  - clicked the spefic product  matched the conditions
+19:05:59.067 [TestNG-test-Test-1] INFO  - add to cart is applicable and intractable ====> clicking ADD TO CART BUTTON
+19:06:22.512 [TestNG-test-Test-1] INFO  - browser quitting 
+19:06:23.753 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:06:26.641 [TestNG-test-Test-1] INFO  - Adding multiple products in the cart is started
+19:06:28.358 [TestNG-test-Test-1] INFO  - entered the product and clicked enter
+19:06:28.659 [TestNG-test-Test-1] INFO  - clicked the product ---> will navigate to product details page
+19:06:38.731 [TestNG-test-Test-1] INFO  - navigating between windowss
+19:06:38.743 [TestNG-test-Test-1] INFO  - adding 1st product
+19:06:38.834 [TestNG-test-Test-1] INFO  - cart clicked
+19:06:38.834 [TestNG-test-Test-1] INFO  - VALIDATION STARTS.....
+19:06:39.298 [TestNG-test-Test-1] INFO  - icon update checking 
+19:06:40.862 [TestNG-test-Test-1] INFO  - =======VALIDATION GOT PASSESD=========
+19:06:45.881 [TestNG-test-Test-1] INFO  - Adding multiple products in the cart is started
+19:06:48.108 [TestNG-test-Test-1] INFO  - entered the product and clicked enter
+19:06:48.491 [TestNG-test-Test-1] INFO  - clicked the product ---> will navigate to product details page
+19:06:48.550 [TestNG-test-Test-1] INFO  - counting cart nums
+19:06:48.550 [TestNG-test-Test-1] INFO  - navigating between windowss
+19:06:48.563 [TestNG-test-Test-1] INFO  - adding 2nd product
+19:06:50.451 [TestNG-test-Test-1] INFO  - cart clicked
+19:06:50.451 [TestNG-test-Test-1] INFO  - VALIDATION STARTS.....
+19:06:50.818 [TestNG-test-Test-1] INFO  - icon update checking 
+19:06:52.244 [TestNG-test-Test-1] INFO  - =======VALIDATION GOT PASSESD=========
+19:06:57.249 [TestNG-test-Test-1] INFO  - Adding multiple products in the cart is started
+19:06:59.075 [TestNG-test-Test-1] INFO  - entered the product and clicked enter
+19:06:59.950 [TestNG-test-Test-1] INFO  - clicked the product ---> will navigate to product details page
+19:07:00.050 [TestNG-test-Test-1] INFO  - counting cart nums
+19:07:00.050 [TestNG-test-Test-1] INFO  - navigating between windowss
+19:07:00.069 [TestNG-test-Test-1] INFO  - adding 3rd product
+19:07:01.776 [TestNG-test-Test-1] INFO  - cart clicked
+19:07:01.776 [TestNG-test-Test-1] INFO  - VALIDATION STARTS.....
+19:07:02.149 [TestNG-test-Test-1] INFO  - icon update checking 
+19:07:03.604 [TestNG-test-Test-1] INFO  - =======VALIDATION GOT PASSESD=========
+19:07:11.852 [TestNG-test-Test-1] INFO  - browser quitting 
+19:07:13.029 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:07:15.025 [TestNG-test-Test-1] INFO  - save for later functionality starts 
+19:07:15.101 [TestNG-test-Test-1] INFO  - item entered in the search box 
+19:07:17.965 [TestNG-test-Test-1] INFO  - naviagted to the list of products  
+19:07:18.459 [TestNG-test-Test-1] INFO  - clicked tbe specfic product
+19:07:20.018 [TestNG-test-Test-1] INFO  - item added
+19:07:20.549 [TestNG-test-Test-1] INFO  - item added is reflected in the cart page  
+19:07:20.615 [TestNG-test-Test-1] INFO  - validation starts 
+19:07:21.335 [TestNG-test-Test-1] INFO  - ====VALIDATION DONE======
+19:07:24.515 [TestNG-test-Test-1] INFO  - browser quitting 
+19:12:00.206 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:12:02.366 [TestNG-test-Test-1] INFO  - CART ICON VERIFICATION STARTS 
+19:12:04.758 [TestNG-test-Test-1] ERROR - An error occurred: disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2a3e1c2ca07e17b0dee78c4f6b84f20a, findElement {using=xpath, value=//div[@class='_2sKwjB']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\badas\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52447}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52447/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a3e1c2ca07e17b0dee78c4f6b84f20a
+19:12:07.859 [TestNG-test-Test-1] INFO  - browser quitting 
+19:12:08.952 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:12:10.894 [TestNG-test-Test-1] INFO  - Adding product to cart Test Starts
+19:12:13.038 [TestNG-test-Test-1] INFO  - Entered the product
+19:12:13.363 [TestNG-test-Test-1] INFO  - clicked the required product===> now navigating to product details page
+19:12:16.584 [TestNG-test-Test-1] INFO  - browser quitting 
+19:12:18.079 [TestNG-test-Test-1] INFO  - chrome driver triggered
+19:12:20.272 [TestNG-test-Test-1] INFO  - transition of add to cart button verification 
+19:12:22.248 [TestNG-test-Test-1] INFO  -  entered the product
+19:12:22.479 [TestNG-test-Test-1] INFO  - navigated to the spefic product 
+19:12:22.508 [TestNG-test-Test-1] INFO  -  selected the product

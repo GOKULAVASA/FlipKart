@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T19:24:06 IST" name="Suite" finished-at="2024-04-05T19:27:18 IST" duration-ms="191284">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T19:24:06 IST" name="Test" finished-at="2024-04-05T19:27:18 IST" duration-ms="191284">
+      <class name="testClasses.TC_CartQuantityDecrementFunctionality_008">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_CartQuantityDecrementFunctionality_008@44c03695]" started-at="2024-04-05T19:25:42 IST" name="setUp" finished-at="2024-04-05T19:25:45 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CartQuantity_Sub_In_Functionality()[pri:0, instance:testClasses.TC_CartQuantityDecrementFunctionality_008@44c03695]" started-at="2024-04-05T19:25:45 IST" name="CartQuantity_Sub_In_Functionality" finished-at="2024-04-05T19:26:10 IST" duration-ms="25391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartQuantity_Sub_In_Functionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_CartQuantityDecrementFunctionality_008@44c03695]" started-at="2024-04-05T19:26:10 IST" name="teardown" finished-at="2024-04-05T19:26:14 IST" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_CartQuantityDecrementFunctionality_008 -->
+      <class name="testClasses.TC_TransitionOfAddtoCartBtn_003">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_TransitionOfAddtoCartBtn_003@3b69e7d1]" started-at="2024-04-05T19:24:36 IST" name="setUp" finished-at="2024-04-05T19:24:39 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="transitioningAddTOCart()[pri:0, instance:testClasses.TC_TransitionOfAddtoCartBtn_003@3b69e7d1]" started-at="2024-04-05T19:24:39 IST" name="transitioningAddTOCart" finished-at="2024-04-05T19:24:50 IST" duration-ms="10354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transitioningAddTOCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_TransitionOfAddtoCartBtn_003@3b69e7d1]" started-at="2024-04-05T19:24:50 IST" name="teardown" finished-at="2024-04-05T19:24:53 IST" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_TransitionOfAddtoCartBtn_003 -->
+      <class name="testClasses.TC_AddingMultiProductsDDT_009">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_AddingMultiProductsDDT_009@7e6f74c]" started-at="2024-04-05T19:26:14 IST" name="setUp" finished-at="2024-04-05T19:26:17 IST" duration-ms="3403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingMultiProducts(java.lang.String)[pri:0, instance:testClasses.TC_AddingMultiProductsDDT_009@7e6f74c]" started-at="2024-04-05T19:26:18 IST" name="addingMultiProducts" data-provider="Searchitem" finished-at="2024-04-05T19:26:39 IST" duration-ms="20342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kickpad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultiProducts -->
+        <test-method signature="addingMultiProducts(java.lang.String)[pri:0, instance:testClasses.TC_AddingMultiProductsDDT_009@7e6f74c]" started-at="2024-04-05T19:26:39 IST" name="addingMultiProducts" data-provider="Searchitem" finished-at="2024-04-05T19:26:50 IST" duration-ms="11066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ridingGolves]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultiProducts -->
+        <test-method signature="addingMultiProducts(java.lang.String)[pri:0, instance:testClasses.TC_AddingMultiProductsDDT_009@7e6f74c]" started-at="2024-04-05T19:26:50 IST" name="addingMultiProducts" data-provider="Searchitem" finished-at="2024-04-05T19:27:03 IST" duration-ms="12947" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kitchenKnife]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultiProducts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_AddingMultiProductsDDT_009@7e6f74c]" started-at="2024-04-05T19:27:03 IST" name="teardown" finished-at="2024-04-05T19:27:06 IST" duration-ms="3281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_AddingMultiProductsDDT_009 -->
+      <class name="testClasses.TC_AddtoCartIsDisplayed_001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_AddtoCartIsDisplayed_001@40a4337a]" started-at="2024-04-05T19:24:07 IST" name="setUp" finished-at="2024-04-05T19:24:11 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCartIsDisplayed()[pri:0, instance:testClasses.TC_AddtoCartIsDisplayed_001@40a4337a]" started-at="2024-04-05T19:24:11 IST" name="AddToCartIsDisplayed" finished-at="2024-04-05T19:24:12 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartIsDisplayed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_AddtoCartIsDisplayed_001@40a4337a]" started-at="2024-04-05T19:24:12 IST" name="teardown" finished-at="2024-04-05T19:24:15 IST" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_AddtoCartIsDisplayed_001 -->
+      <class name="testClasses.TC_AddingProductToCart_002">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_AddingProductToCart_002@7586beff]" started-at="2024-04-05T19:24:15 IST" name="setUp" finished-at="2024-04-05T19:24:18 IST" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingProductToCart()[pri:0, instance:testClasses.TC_AddingProductToCart_002@7586beff]" started-at="2024-04-05T19:24:18 IST" name="addingProductToCart" finished-at="2024-04-05T19:24:33 IST" duration-ms="14588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingProductToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_AddingProductToCart_002@7586beff]" started-at="2024-04-05T19:24:33 IST" name="teardown" finished-at="2024-04-05T19:24:36 IST" duration-ms="3268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_AddingProductToCart_002 -->
+      <class name="testClasses.TC_RemovingCartItems_006">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_RemovingCartItems_006@1573f9fc]" started-at="2024-04-05T19:25:18 IST" name="setUp" finished-at="2024-04-05T19:25:21 IST" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deletinCartItems()[pri:0, instance:testClasses.TC_RemovingCartItems_006@1573f9fc]" started-at="2024-04-05T19:25:21 IST" name="deletinCartItems" finished-at="2024-04-05T19:25:27 IST" duration-ms="5450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletinCartItems -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_RemovingCartItems_006@1573f9fc]" started-at="2024-04-05T19:25:27 IST" name="teardown" finished-at="2024-04-05T19:25:30 IST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_RemovingCartItems_006 -->
+      <class name="testClasses.TC_ValidatingRestrictionWhenProductOutOfStock_005">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_ValidatingRestrictionWhenProductOutOfStock_005@5542c4ed]" started-at="2024-04-05T19:25:04 IST" name="setUp" finished-at="2024-04-05T19:25:07 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidatingAddtoCartBtnWhenOutofStock()[pri:0, instance:testClasses.TC_ValidatingRestrictionWhenProductOutOfStock_005@5542c4ed]" started-at="2024-04-05T19:25:07 IST" name="ValidatingAddtoCartBtnWhenOutofStock" finished-at="2024-04-05T19:25:15 IST" duration-ms="8172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingAddtoCartBtnWhenOutofStock -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_ValidatingRestrictionWhenProductOutOfStock_005@5542c4ed]" started-at="2024-04-05T19:25:15 IST" name="teardown" finished-at="2024-04-05T19:25:18 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_ValidatingRestrictionWhenProductOutOfStock_005 -->
+      <class name="testClasses.TC_SaveProductForLater_010">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_SaveProductForLater_010@dd05255]" started-at="2024-04-05T19:27:06 IST" name="setUp" finished-at="2024-04-05T19:27:09 IST" duration-ms="3163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="saveForLater()[pri:0, instance:testClasses.TC_SaveProductForLater_010@dd05255]" started-at="2024-04-05T19:27:09 IST" name="saveForLater" finished-at="2024-04-05T19:27:15 IST" duration-ms="5439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveForLater -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_SaveProductForLater_010@dd05255]" started-at="2024-04-05T19:27:15 IST" name="teardown" finished-at="2024-04-05T19:27:18 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_SaveProductForLater_010 -->
+      <class name="testClasses.TC_CartQuantityAlteringFunctionality_007">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_CartQuantityAlteringFunctionality_007@6150c3ec]" started-at="2024-04-05T19:25:30 IST" name="setUp" finished-at="2024-04-05T19:25:33 IST" duration-ms="3217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CartQuantity_Add_On_Functionality()[pri:0, instance:testClasses.TC_CartQuantityAlteringFunctionality_007@6150c3ec]" started-at="2024-04-05T19:25:33 IST" name="CartQuantity_Add_On_Functionality" finished-at="2024-04-05T19:25:39 IST" duration-ms="5382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartQuantity_Add_On_Functionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_CartQuantityAlteringFunctionality_007@6150c3ec]" started-at="2024-04-05T19:25:39 IST" name="teardown" finished-at="2024-04-05T19:25:42 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_CartQuantityAlteringFunctionality_007 -->
+      <class name="testClasses.TC_ValidatingCartItem_004">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClasses.TC_ValidatingCartItem_004@815b41f]" started-at="2024-04-05T19:24:53 IST" name="setUp" finished-at="2024-04-05T19:24:56 IST" duration-ms="3061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyingSelectedItem_in_Cart()[pri:0, instance:testClasses.TC_ValidatingCartItem_004@815b41f]" started-at="2024-04-05T19:24:56 IST" name="VerifyingSelectedItem_in_Cart" finished-at="2024-04-05T19:25:01 IST" duration-ms="4688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingSelectedItem_in_Cart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.TC_ValidatingCartItem_004@815b41f]" started-at="2024-04-05T19:25:01 IST" name="teardown" finished-at="2024-04-05T19:25:04 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.TC_ValidatingCartItem_004 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
